@@ -59,7 +59,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.checkBox1);
             this.Name = "Form1";
-            this.Text = "Form12";
+            this.Text = "Form123";
             this.ResumeLayout(false);
             this.PerformLayout();
 
